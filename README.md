@@ -11,6 +11,8 @@
 | :--- | :--- | :--- | :--- |
 | **马云 (Jack Ma)** | 战略愿景/终局思维 | [.accio/skills/jack-ma-perspective/](.accio/skills/jack-ma-perspective/) | `马云视角`, `马老师会怎么看` |
 | **雷军 (Lei Jun)** | 互联网七字诀/顺势而为 | [.accio/skills/lei-jun-perspective/](.accio/skills/lei-jun-perspective/) | `雷老师`, `顺势而为` |
+| **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [.accio/skills/zhao-benshan-perspective/](.accio/skills/zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
+| **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [.accio/skills/luo-yonghao-perspective/](.accio/skills/luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
 
 ---
 
