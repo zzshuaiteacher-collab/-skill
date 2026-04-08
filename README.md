@@ -15,6 +15,9 @@
 | **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [.accio/skills/luo-yonghao-perspective/](.accio/skills/luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
 | **段永平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
 | **罗振宇 (Luo Zhenyu)** | 知识套利/长期主义 | [.accio/skills/luo-zhenyu-perspective/](.accio/skills/luo-zhenyu-perspective/) | `罗胖视角`, `时间的朋友` |
+| **樊登 (Fan Deng)** | 复杂科学/反脆弱 | [.accio/skills/fan-deng-perspective/](.accio/skills/fan-deng-perspective/) | `樊老师`, `读书方法论` |
+| **罗翔 (Luo Xiang)** | 法治细节/圆圈正义 | [.accio/skills/luo-xiang-perspective/](.accio/skills/luo-xiang-perspective/) | `罗翔视角`, `法治的细节` |
+| **陆奇 (Lu Qi)** | 范式迁移/STA循环 | [.accio/skills/lu-qi-perspective/](.accio/skills/lu-qi-perspective/) | `陆奇博士`, `奇绩创坛` |
 
 ---
 
