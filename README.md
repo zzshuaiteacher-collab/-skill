@@ -13,6 +13,7 @@
 | **雷军 (Lei Jun)** | 互联网七字诀/顺势而为 | [.accio/skills/lei-jun-perspective/](.accio/skills/lei-jun-perspective/) | `雷老师`, `顺势而为` |
 | **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [.accio/skills/zhao-benshan-perspective/](.accio/skills/zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
 | **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [.accio/skills/luo-yonghao-perspective/](.accio/skills/luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
+| **段永平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
 
 ---
 
