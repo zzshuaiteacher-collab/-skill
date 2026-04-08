@@ -14,6 +14,7 @@
 | **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [.accio/skills/zhao-benshan-perspective/](.accio/skills/zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
 | **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [.accio/skills/luo-yonghao-perspective/](.accio/skills/luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
 | **段永平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
+| **罗振宇 (Luo Zhenyu)** | 知识套利/长期主义 | [.accio/skills/luo-zhenyu-perspective/](.accio/skills/luo-zhenyu-perspective/) | `罗胖视角`, `时间的朋友` |
 
 ---
 
