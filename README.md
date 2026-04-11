@@ -38,6 +38,9 @@
 | **Jensen Huang** | 加速计算/AI工厂 | [jensen-huang-perspective/](jensen-huang-perspective/) | `黄仁勋视角`, `加速计算` |
 | **Ray Dalio** | 原则驱动/系统机器 | [ray-dalio-perspective/](ray-dalio-perspective/) | `达里奥视角`, `原则` |
 | **Yuval Noah Harari** | 共同虚构/宏观历史 | [yuval-noah-harari-perspective/](yuval-noah-harari-perspective/) | `哈拉利视角`, `人类简史` |
+| **许知远 (Xu Zhiyuan)** | 偏见驱动/时代抵抗 | [xu-zhiyuan-perspective/](xu-zhiyuan-perspective/) | `许知远视角`, `偏见驱动` |
+| **冯唐 (Feng Tang)** | 成事手艺/金线逻辑 | [feng-tang-perspective/](feng-tang-perspective/) | `冯唐视角`, `成事学` |
+| **Jordan Peterson** | 秩序与混沌/责任赋能 | [jordan-peterson-perspective/](jordan-peterson-perspective/) | `Peterson 视角`, `12条法则` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
