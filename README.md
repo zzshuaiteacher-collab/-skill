@@ -32,6 +32,9 @@
 | **Steve Jobs** | 极致产品/现实扭曲场 | [steve-jobs-perspective/](steve-jobs-perspective/) | `Jobs 视角`, `极致产品` |
 | **Warren Buffett** | 价值投资/护城河 | [warren-buffett-perspective/](warren-buffett-perspective/) | `巴菲特视角`, `价值投资` |
 | **姜文 (Jiang Wen)** | 霸气叙事/子弹效应 | [jiang-wen-perspective/](jiang-wen-perspective/) | `姜文视角`, `让子弹飞` |
+| **Elon Musk** | 第一性原理/硬核工程 | [elon-musk-perspective/](elon-musk-perspective/) | `Musk 视角`, `第一性原理` |
+| **Charlie Munger** | 多元思维模型/格栅逻辑 | [charlie-munger-perspective/](charlie-munger-perspective/) | `芒格视角`, `多元思维模型` |
+| **周星驰 (Stephen Chow)** | 无厘头解构/底层尊严 | [stephen-chow-perspective/](stephen-chow-perspective/) | `星爷视角`, `无厘头` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
