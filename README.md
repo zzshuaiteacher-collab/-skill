@@ -16,7 +16,7 @@
 | **马云 (Jack Ma)** | 战略愿景/终局思维 | [.accio/skills/jack-ma-perspective/](.accio/skills/jack-ma-perspective/) | `马云视角`, `马老师会怎么看` |
 | **雷军 (Lei Jun)** | 互联网七字诀/顺势而为 | [.accio/skills/lei-jun-perspective/](.accio/skills/lei-jun-perspective/) | `雷老师`, `顺势而为` |
 | **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [.accio/skills/zhao-benshan-perspective/](.accio/skills/zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
-| **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [.accio/skills/luo-yonghao-perspective/](.accio/skills/luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
+| **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [luo-yonghao-perspective/](luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
 | **段勇平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
 | **罗振宇 (Luo Zhenyu)** | 知识套利/长期主义 | [.accio/skills/luo-zhenyu-perspective/](.accio/skills/luo-zhenyu-perspective/) | `罗胖视角`, `时间的朋友` |
 | **樊登 (Fan Deng)** | 复杂科学/反脆弱 | [.accio/skills/fan-deng-perspective/](.accio/skills/fan-deng-perspective/) | `樊老师`, `读书方法论` |
@@ -47,6 +47,9 @@
 | **马伯庸 (Ma Boyong)** | 考据脑洞/史实缝隙 | [ma-boyong-perspective/](ma-boyong-perspective/) | `马亲王`, `显微镜下的大明` |
 | **Christopher Nolan** | 时空结构/实拍至上 | [christopher-nolan-perspective/](christopher-nolan-perspective/) | `诺兰视角`, `时间结构` |
 | **Carl Jung** | 个体化/集体无意识 | [carl-jung-perspective/](carl-jung-perspective/) | `荣格视角`, `阴影集成` |
+| **罗永浩 (Luo Yonghao)** | 理想主义/正直价值 | [luo-yonghao-perspective/](luo-yonghao-perspective/) | `老罗视角`, `认真` |
+| **宫崎骏 (Hayao Miyazaki)** | 纯真力量/反战叙事 | [miyazaki-perspective/](miyazaki-perspective/) | `宫崎骏视角`, `起风了` |
+| **Naval Ravikant** | 特殊知识/杠杆财富 | [naval-ravikant-perspective/](naval-ravikant-perspective/) | `Naval视角`, `产品化自己` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
