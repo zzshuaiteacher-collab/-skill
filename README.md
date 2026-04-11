@@ -30,6 +30,13 @@
 | **樊登 (Fan Deng)** | 复杂科学/反脆弱 | [.accio/skills/fan-deng-perspective/](.accio/skills/fan-deng-perspective/) | `樊老师`, `读书方法论` |
 | **罗翔 (Luo Xiang)** | 法治细节/圆圈正义 | [.accio/skills/luo-xiang-perspective/](.accio/skills/luo-xiang-perspective/) | `罗翔视角`, `法治的细节` |
 | **陆奇 (Lu Qi)** | 范式迁移/STA循环 | [.accio/skills/lu-qi-perspective/](.accio/skills/lu-qi-perspective/) | `陆奇博士`, `奇绩创坛` |
+| **韩寒 (Han Han)** | 杂文讽刺/解构权威 | [han-han-perspective/](han-han-perspective/) | `韩寒视角`, `杂文风格` |
+| **李笑来 (Li Xiaolai)** | 定投逻辑/元认知 | [li-xiaolai-perspective/](li-xiaolai-perspective/) | `李笑来视角`, `财富自由` |
+| **余华 (Yu Hua)** | 苦难幽默/极简叙事 | [yu-hua-perspective/](yu-hua-perspective/) | `余华视角`, `活着` |
+| **莫言 (Mo Yan)** | 魔幻现实/感官狂欢 | [mo-yan-perspective/](mo-yan-perspective/) | `莫言视角`, `高密东北乡` |
+| **粥左罗 (Zhou Zuoluo)** | 爆文算法/目标导向 | [zhou-zuoluo-perspective/](zhou-zuoluo-perspective/) | `粥左罗视角`, `爆文思维` |
+| **李诞 (Li Dan)** | 消解逻辑/人间不值得 | [li-dan-perspective/](li-dan-perspective/) | `李诞视角`, `人间不值得` |
+| **Nassim Taleb** | 反脆弱/风险共担 | [nassim-taleb-perspective/](nassim-taleb-perspective/) | `Taleb 视角`, `反脆弱` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
