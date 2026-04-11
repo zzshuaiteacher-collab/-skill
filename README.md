@@ -44,6 +44,9 @@
 | **梁文道 (Liang Wendao)** | 常识回归/温和讲述 | [liang-wendao-perspective/](liang-wendao-perspective/) | `梁文道视角`, `开卷八分钟` |
 | **吴军 (Wu Jun)** | 数学之美/文明浪潮 | [wu-jun-perspective/](wu-jun-perspective/) | `吴军视角`, `数学之美` |
 | **戴建业 (Dai Jianye)** | 魔性考据/真性情 | [dai-jianye-perspective/](dai-jianye-perspective/) | `戴建业视角`, `真性情` |
+| **马伯庸 (Ma Boyong)** | 考据脑洞/史实缝隙 | [ma-boyong-perspective/](ma-boyong-perspective/) | `马亲王`, `显微镜下的大明` |
+| **Christopher Nolan** | 时空结构/实拍至上 | [christopher-nolan-perspective/](christopher-nolan-perspective/) | `诺兰视角`, `时间结构` |
+| **Carl Jung** | 个体化/集体无意识 | [carl-jung-perspective/](carl-jung-perspective/) | `荣格视角`, `阴影集成` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
