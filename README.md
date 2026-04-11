@@ -17,7 +17,7 @@
 | **雷军 (Lei Jun)** | 互联网七字诀/顺势而为 | [.accio/skills/lei-jun-perspective/](.accio/skills/lei-jun-perspective/) | `雷老师`, `顺势而为` |
 | **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [.accio/skills/zhao-benshan-perspective/](.accio/skills/zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
 | **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [.accio/skills/luo-yonghao-perspective/](.accio/skills/luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
-| **段永平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
+| **段勇平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
 | **罗振宇 (Luo Zhenyu)** | 知识套利/长期主义 | [.accio/skills/luo-zhenyu-perspective/](.accio/skills/luo-zhenyu-perspective/) | `罗胖视角`, `时间的朋友` |
 | **樊登 (Fan Deng)** | 复杂科学/反脆弱 | [.accio/skills/fan-deng-perspective/](.accio/skills/fan-deng-perspective/) | `樊老师`, `读书方法论` |
 | **罗翔 (Luo Xiang)** | 法治细节/圆圈正义 | [.accio/skills/luo-xiang-perspective/](.accio/skills/luo-xiang-perspective/) | `罗翔视角`, `法治的细节` |
@@ -35,6 +35,9 @@
 | **Elon Musk** | 第一性原理/硬核工程 | [elon-musk-perspective/](elon-musk-perspective/) | `Musk 视角`, `第一性原理` |
 | **Charlie Munger** | 多元思维模型/格栅逻辑 | [charlie-munger-perspective/](charlie-munger-perspective/) | `芒格视角`, `多元思维模型` |
 | **周星驰 (Stephen Chow)** | 无厘头解构/底层尊严 | [stephen-chow-perspective/](stephen-chow-perspective/) | `星爷视角`, `无厘头` |
+| **Jensen Huang** | 加速计算/AI工厂 | [jensen-huang-perspective/](jensen-huang-perspective/) | `黄仁勋视角`, `加速计算` |
+| **Ray Dalio** | 原则驱动/系统机器 | [ray-dalio-perspective/](ray-dalio-perspective/) | `达里奥视角`, `原则` |
+| **Yuval Noah Harari** | 共同虚构/宏观历史 | [yuval-noah-harari-perspective/](yuval-noah-harari-perspective/) | `哈拉利视角`, `人类简史` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
