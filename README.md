@@ -2,21 +2,13 @@
 > *「你想蒸馏的下一个员工，何必是同事」*
 
 
-
-
 本仓库包含了一系列通过女娲 (Nuwa) 认知提取引擎蒸馏出的顶级大脑思维模型。每个文件夹都是一个独立、可运行的视角 Skill。
-
-
 
 
 ---
 
 
-
-
 ## 🧠 已蒸馏大脑 (Skill List)
-
-
 
 
 | 人物/主题 | 核心能力 | 路径 | 触发词 |
@@ -37,19 +29,16 @@
 | **粥左罗 (Zhou Zuoluo)** | 爆文算法/目标导向 | [zhou-zuoluo-perspective/](zhou-zuoluo-perspective/) | `粥左罗视角`, `爆文思维` |
 | **李诞 (Li Dan)** | 消解逻辑/人间不值得 | [li-dan-perspective/](li-dan-perspective/) | `李诞视角`, `人间不值得` |
 | **Nassim Taleb** | 反脆弱/风险共担 | [nassim-taleb-perspective/](nassim-taleb-perspective/) | `Taleb 视角`, `反脆弱` |
+| **Steve Jobs** | 极致产品/现实扭曲场 | [steve-jobs-perspective/](steve-jobs-perspective/) | `Jobs 视角`, `极致产品` |
+| **Warren Buffett** | 价值投资/护城河 | [warren-buffett-perspective/](warren-buffett-perspective/) | `巴菲特视角`, `价值投资` |
+| **姜文 (Jiang Wen)** | 霸气叙事/子弹效应 | [jiang-wen-perspective/](jiang-wen-perspective/) | `姜文视角`, `让子弹飞` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
-
-
 
 
 ---
 
 
-
-
 ## 🚀 如何使用？
-
-
 
 
 1.  **激活视角**：在对话中输入对应的触发词。
@@ -57,11 +46,7 @@
 2.  **创建新大脑**：如果你有女娲工具，可以继续使用其指令创建新视角。
 
 
-
-
 ---
-
-
 
 
 ## 🛠️ 仓库结构
@@ -70,11 +55,7 @@
 - `references/research/`：每个 Skill 背后的原始调研数据（著作、对话、决策等）。
 
 
-
-
 ---
-
-
 
 
 ## 许可证
