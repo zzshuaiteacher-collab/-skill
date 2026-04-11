@@ -53,6 +53,9 @@
 | **Peter Drucker** | 现代管理学/博雅艺术 | [peter-drucker-perspective/](peter-drucker-perspective/) | `德鲁克视角`, `管理学之父` |
 | **Friedrich Nietzsche** | 权力意志/超人哲学 | [friedrich-nietzsche-perspective/](friedrich-nietzsche-perspective/) | `尼采视角`, `超人` |
 | **李光耀 (Lee Kuan Yew)** | 实用主义/精英治国 | [lee-kuan-yew-perspective/](lee-kuan-yew-perspective/) | `李光耀视角`, `硬道理` |
+| **Seth Godin** | 许可营销/紫牛之父 | [seth-godin-perspective/](seth-godin-perspective/) | `Seth视角`, `许可营销` |
+| **李安 (Ang Lee)** | 中西调和/温情克制 | [ang-lee-perspective/](ang-lee-perspective/) | `李安视角`, `中西调和` |
+| **Viktor Frankl** | 意义治疗/悲剧乐观 | [viktor-frankl-perspective/](viktor-frankl-perspective/) | `弗兰克尔视角`, `活出意义` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
