@@ -50,6 +50,9 @@
 | **罗永浩 (Luo Yonghao)** | 理想主义/正直价值 | [luo-yonghao-perspective/](luo-yonghao-perspective/) | `老罗视角`, `认真` |
 | **宫崎骏 (Hayao Miyazaki)** | 纯真力量/反战叙事 | [miyazaki-perspective/](miyazaki-perspective/) | `宫崎骏视角`, `起风了` |
 | **Naval Ravikant** | 特殊知识/杠杆财富 | [naval-ravikant-perspective/](naval-ravikant-perspective/) | `Naval视角`, `产品化自己` |
+| **Peter Drucker** | 现代管理学/博雅艺术 | [peter-drucker-perspective/](peter-drucker-perspective/) | `德鲁克视角`, `管理学之父` |
+| **Friedrich Nietzsche** | 权力意志/超人哲学 | [friedrich-nietzsche-perspective/](friedrich-nietzsche-perspective/) | `尼采视角`, `超人` |
+| **李光耀 (Lee Kuan Yew)** | 实用主义/精英治国 | [lee-kuan-yew-perspective/](lee-kuan-yew-perspective/) | `李光耀视角`, `硬道理` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
