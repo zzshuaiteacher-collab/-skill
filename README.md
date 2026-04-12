@@ -59,6 +59,12 @@
 | **许子东 (Xu Zidong)** | 世俗文学史/情感备忘录 | [xu-zidong-perspective/](xu-zidong-perspective/) | `许子东视角`, `重读现代文学` |
 | **Peter Thiel** | 0到1/逆向思维 | [peter-thiel-perspective/](peter-thiel-perspective/) | `Thiel视角`, `从0到1` |
 | **Marcus Aurelius** | 斯多葛/内心堡垒 | [marcus-aurelius-perspective/](marcus-aurelius-perspective/) | `奥勒留视角`, `沉思录` |
+| **Sam Altman** | 扩展定律/愿景布道 | [sam-altman-perspective/](sam-altman-perspective/) | `Altman视角`, `AGI` |
+| **Paul Graham** | 创业逻辑/写作即思考 | [paul-graham-perspective/](paul-graham-perspective/) | `PG视角`, `黑客与画家` |
+| **Seneca** | 斯多葛/时间管理 | [seneca-perspective/](seneca-perspective/) | `塞涅卡视角`, `论生命的短暂` |
+| **张一鸣 (Zhang Yiming)** | 延迟满足/Context | [zhang-yiming-perspective/](zhang-yiming-perspective/) | `张一鸣视角`, `一鸣视角` |
+| **Robert Greene** | 权力法则/人性洞察 | [robert-greene-perspective/](robert-greene-perspective/) | `罗伯特·格林视角`, `权力法则` |
+| **五味太郎 (Taro Gomi)** | 绘本思维/直觉想象 | [taro-gomi-perspective/](taro-gomi-perspective/) | `五味太郎视角`, `绘本思维` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
