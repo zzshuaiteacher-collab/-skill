@@ -77,6 +77,9 @@
 | **Vitalik Buterin** | 去中心化协调/无限游戏 | [vitalik-buterin-perspective/](vitalik-buterin-perspective/) | `Vitalik 视角`, `以太坊逻辑` |
 | **George Soros** | 反身性/开放社会 | [george-soros-perspective/](george-soros-perspective/) | `索罗斯视角`, `反身性` |
 | **村上春树 (Haruki Murakami)** | 长跑者意志/系统节奏 | [haruki-murakami-perspective/](haruki-murakami-perspective/) | `村上视角`, `且听风吟` |
+| **Bill Gates** | 系统性慈善/科学乐观 | [bill-gates-perspective/](bill-gates-perspective/) | `比尔·盖茨视角`, `盖茨视角` |
+| **Jeff Bezos** | 长期主义/Day 1 | [jeff-bezos-perspective/](jeff-bezos-perspective/) | `贝佐斯视角`, `Day 1` |
+| **老子 (Laozi)** | 无为而治/大音希声 | [laozi-perspective/](laozi-perspective/) | `老子视角`, `道德经视角` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
