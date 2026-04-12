@@ -68,6 +68,9 @@
 | **Patrick Collison** | 进步研究/文明加速 | [patrick-collison-perspective/](patrick-collison-perspective/) | `Patrick Collison 视角`, `进步研究` |
 | **David Goggins** | 心理韧性/Stay Hard | [david-goggins-perspective/](david-goggins-perspective/) | `David Goggins 视角`, `硬核意志` |
 | **Rick Rubin** | 创意行为/禅意制作 | [rick-rubin-perspective/](rick-rubin-perspective/) | `Rick Rubin 视角`, `艺术觉醒` |
+| **Balaji Srinivasan** | 网络国家/真理逻辑 | [balaji-srinivasan-perspective/](balaji-srinivasan-perspective/) | `Balaji 视角`, `网络国家` |
+| **曾国藩 (Zeng Guofan)** | 结硬寨/至诚之道 | [zeng-guofan-perspective/](zeng-guofan-perspective/) | `曾国藩视角`, `至诚为本` |
+| **王家卫 (Wong Kar-wai)** | 光影氛围/时间碎裂 | [wong-kar-wai-perspective/](wong-kar-wai-perspective/) | `王家卫视角`, `光影叙事` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
