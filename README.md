@@ -80,6 +80,9 @@
 | **Bill Gates** | 系统性慈善/科学乐观 | [bill-gates-perspective/](bill-gates-perspective/) | `比尔·盖茨视角`, `盖茨视角` |
 | **Jeff Bezos** | 长期主义/Day 1 | [jeff-bezos-perspective/](jeff-bezos-perspective/) | `贝佐斯视角`, `Day 1` |
 | **老子 (Laozi)** | 无为而治/大音希声 | [laozi-perspective/](laozi-perspective/) | `老子视角`, `道德经视角` |
+| **Richard Feynman** | 费曼技巧/好奇心 | [richard-feynman-perspective/](richard-feynman-perspective/) | `费曼视角`, `好奇心` |
+| **Kobe Bryant** | 曼巴精神/执着 | [kobe-bryant-perspective/](kobe-bryant-perspective/) | `科比视角`, `曼巴精神` |
+| **王阳明 (Wang Yangming)** | 知行合一/心学 | [wang-yangming-perspective/](wang-yangming-perspective/) | `阳明视角`, `知行合一` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
