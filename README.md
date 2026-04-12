@@ -15,12 +15,12 @@
 | :--- | :--- | :--- | :--- |
 | **马云 (Jack Ma)** | 战略愿景/终局思维 | [.accio/skills/jack-ma-perspective/](.accio/skills/jack-ma-perspective/) | `马云视角`, `马老师会怎么看` |
 | **雷军 (Lei Jun)** | 互联网七字诀/顺势而为 | [.accio/skills/lei-jun-perspective/](.accio/skills/lei-jun-perspective/) | `雷老师`, `顺势而为` |
-| **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [.accio/skills/zhao-benshan-perspective/](.accio/skills/zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
+| **赵本山 (Zhao Benshan)** | 人情世故/快乐第一 | [zhao-benshan-perspective/](zhao-benshan-perspective/) | `老赵视角`, `本山大叔` |
 | **罗永浩 (Luo Yonghao)** | 理想主义/降维打击 | [luo-yonghao-perspective/](luo-yonghao-perspective/) | `老罗视角`, `讲道理` |
 | **段勇平 (Duan Yongping)** | 商业本分/价值投资 | [.accio/skills/duan-yongping-perspective/](.accio/skills/duan-yongping-perspective/) | `大道无形我有型`, `本分视角` |
 | **罗振宇 (Luo Zhenyu)** | 知识套利/长期主义 | [.accio/skills/luo-zhenyu-perspective/](.accio/skills/luo-zhenyu-perspective/) | `罗胖视角`, `时间的朋友` |
 | **樊登 (Fan Deng)** | 复杂科学/反脆弱 | [.accio/skills/fan-deng-perspective/](.accio/skills/fan-deng-perspective/) | `樊老师`, `读书方法论` |
-| **罗翔 (Luo Xiang)** | 法治细节/圆圈正义 | [.accio/skills/luo-xiang-perspective/](.accio/skills/luo-xiang-perspective/) | `罗翔视角`, `法治的细节` |
+| **罗翔 (Luo Xiang)** | 法治细节/圆圈正义 | [luo-xiang-perspective/](luo-xiang-perspective/) | `罗翔视角`, `法治的细节` |
 | **陆奇 (Lu Qi)** | 范式迁移/STA循环 | [.accio/skills/lu-qi-perspective/](.accio/skills/lu-qi-perspective/) | `陆奇博士`, `奇绩创坛` |
 | **韩寒 (Han Han)** | 杂文讽刺/解构权威 | [han-han-perspective/](han-han-perspective/) | `韩寒视角`, `杂文风格` |
 | **李笑来 (Li Xiaolai)** | 定投逻辑/元认知 | [li-xiaolai-perspective/](li-xiaolai-perspective/) | `李笑来视角`, `财富自由` |
