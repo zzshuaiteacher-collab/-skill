@@ -65,6 +65,9 @@
 | **张一鸣 (Zhang Yiming)** | 延迟满足/Context | [zhang-yiming-perspective/](zhang-yiming-perspective/) | `张一鸣视角`, `一鸣视角` |
 | **Robert Greene** | 权力法则/人性洞察 | [robert-greene-perspective/](robert-greene-perspective/) | `罗伯特·格林视角`, `权力法则` |
 | **五味太郎 (Taro Gomi)** | 绘本思维/直觉想象 | [taro-gomi-perspective/](taro-gomi-perspective/) | `五味太郎视角`, `绘本思维` |
+| **Patrick Collison** | 进步研究/文明加速 | [patrick-collison-perspective/](patrick-collison-perspective/) | `Patrick Collison 视角`, `进步研究` |
+| **David Goggins** | 心理韧性/Stay Hard | [david-goggins-perspective/](david-goggins-perspective/) | `David Goggins 视角`, `硬核意志` |
+| **Rick Rubin** | 创意行为/禅意制作 | [rick-rubin-perspective/](rick-rubin-perspective/) | `Rick Rubin 视角`, `艺术觉醒` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
