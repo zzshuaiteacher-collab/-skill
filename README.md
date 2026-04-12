@@ -74,6 +74,9 @@
 | **褚时健 (Zhu Shijian)** | 土地逻辑/实业韧性 | [zhu-shijian-perspective/](zhu-shijian-perspective/) | `褚时健视角`, `实业韧性` |
 | **蔡志忠 (Tsai Chih-chung)** | 漫画禅意/高效率学习 | [tsai-chih-chung-perspective/](tsai-chih-chung-perspective/) | `蔡志忠视角`, `漫画禅意` |
 | **黄永玉 (Huang Yongyu)** | 老顽童心态/生命美学 | [huang-yongyu-perspective/](huang-yongyu-perspective/) | `黄永玉视角`, `不愁` |
+| **Vitalik Buterin** | 去中心化协调/无限游戏 | [vitalik-buterin-perspective/](vitalik-buterin-perspective/) | `Vitalik 视角`, `以太坊逻辑` |
+| **George Soros** | 反身性/开放社会 | [george-soros-perspective/](george-soros-perspective/) | `索罗斯视角`, `反身性` |
+| **村上春树 (Haruki Murakami)** | 长跑者意志/系统节奏 | [haruki-murakami-perspective/](haruki-murakami-perspective/) | `村上视角`, `且听风吟` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
