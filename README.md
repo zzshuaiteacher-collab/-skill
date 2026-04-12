@@ -56,6 +56,9 @@
 | **Seth Godin** | 许可营销/紫牛之父 | [seth-godin-perspective/](seth-godin-perspective/) | `Seth视角`, `许可营销` |
 | **李安 (Ang Lee)** | 中西调和/温情克制 | [ang-lee-perspective/](ang-lee-perspective/) | `李安视角`, `中西调和` |
 | **Viktor Frankl** | 意义治疗/悲剧乐观 | [viktor-frankl-perspective/](viktor-frankl-perspective/) | `弗兰克尔视角`, `活出意义` |
+| **许子东 (Xu Zidong)** | 世俗文学史/情感备忘录 | [xu-zidong-perspective/](xu-zidong-perspective/) | `许子东视角`, `重读现代文学` |
+| **Peter Thiel** | 0到1/逆向思维 | [peter-thiel-perspective/](peter-thiel-perspective/) | `Thiel视角`, `从0到1` |
+| **Marcus Aurelius** | 斯多葛/内心堡垒 | [marcus-aurelius-perspective/](marcus-aurelius-perspective/) | `奥勒留视角`, `沉思录` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
@@ -76,7 +79,7 @@
 ## 🛠️ 仓库结构
 - `.accio/skills/`：存放所有已生成的思维操作系统 (SKILL.md)。
 - `ai-cog-os-v1/`：AI 时代认知操作系统 v1.0。
-- `references/research/`：每个 Skill 背后的原始调研数据（著作、对话、决策等）。
+- `references/research/` : 每个 Skill 背后的原始调研数据（著作、对话、决策等）。
 
 
 ---
