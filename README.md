@@ -71,6 +71,9 @@
 | **Balaji Srinivasan** | 网络国家/真理逻辑 | [balaji-srinivasan-perspective/](balaji-srinivasan-perspective/) | `Balaji 视角`, `网络国家` |
 | **曾国藩 (Zeng Guofan)** | 结硬寨/至诚之道 | [zeng-guofan-perspective/](zeng-guofan-perspective/) | `曾国藩视角`, `至诚为本` |
 | **王家卫 (Wong Kar-wai)** | 光影氛围/时间碎裂 | [wong-kar-wai-perspective/](wong-kar-wai-perspective/) | `王家卫视角`, `光影叙事` |
+| **褚时健 (Zhu Shijian)** | 土地逻辑/实业韧性 | [zhu-shijian-perspective/](zhu-shijian-perspective/) | `褚时健视角`, `实业韧性` |
+| **蔡志忠 (Tsai Chih-chung)** | 漫画禅意/高效率学习 | [tsai-chih-chung-perspective/](tsai-chih-chung-perspective/) | `蔡志忠视角`, `漫画禅意` |
+| **黄永玉 (Huang Yongyu)** | 老顽童心态/生命美学 | [huang-yongyu-perspective/](huang-yongyu-perspective/) | `黄永玉视角`, `不愁` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
