@@ -83,6 +83,7 @@
 | **Richard Feynman** | 费曼技巧/好奇心 | [richard-feynman-perspective/](richard-feynman-perspective/) | `费曼视角`, `好奇心` |
 | **Kobe Bryant** | 曼巴精神/执着 | [kobe-bryant-perspective/](kobe-bryant-perspective/) | `科比视角`, `曼巴精神` |
 | **王阳明 (Wang Yangming)** | 知行合一/心学 | [wang-yangming-perspective/](wang-yangming-perspective/) | `阳明视角`, `知行合一` |
+| **核心好问题专家** | 提问榨取/认知边际 | [core-inquiry-master-perspective/](core-inquiry-master-perspective/) | `核心好问题专家`, `榨取式提问` |
 | **AI 时代认知操作系统** | 提升判断力/人机协作 | [ai-cog-os-v1/SKILL.md](ai-cog-os-v1/SKILL.md) | `认知操作系统`, `AI Cognitive OS` |
 
 
